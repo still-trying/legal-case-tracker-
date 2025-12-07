@@ -58,33 +58,33 @@ The Legal Case Tracker is a full-stack Django application with a custom-designed
 ✨ Core Features
 🔐 Authentication
 
-Secure login/logout + page access restrictions.
+--> Secure login/logout + page access restrictions.
 
 📁 Case Management
 
-Create, update, view, delete cases with status & metadata.
+--> Create, update, view, delete cases with status & metadata.
 
 👥 Party Handling
 
-Add plaintiffs, defendants, or custom roles per case.
+--> Add plaintiffs, defendants, or custom roles per case.
 
 ⏳ Deadline Engine
 
-Add deadlines with overdue detection & completion status.
+--> Add deadlines with overdue detection & completion status.
 
 📄 Document Upload System
 
-Secure uploads with validation (file size + extension), stored under per-case folders.
+--> Secure uploads with validation (file size + extension), stored under per-case folders.
 
 🖥 Custom Frontend UI
 
-Responsive layout
+1.Responsive layout
 
-Smooth animations
+2.Smooth animations
 
-Futuristic card design
+3.Futuristic card design
 
-Styled forms (Django Form Mixins)
+4,Styled forms (Django Form Mixins)
 
 <h3 align="center">🌐 Connect-With-Me</h3>
 
