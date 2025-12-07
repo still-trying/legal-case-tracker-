@@ -122,7 +122,7 @@ python manage.py runserver
   <a href="linkedin.com/in/aniruddh-srivastav-058312365">
     <img src="https://img.shields.io/badge/LinkedIn-Connected-ff007f?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AnkitShukla-arch">
+  <a href="https://github.com/still-trying">
     <img src="https://img.shields.io/badge/GitHub-Repository-7fff00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
