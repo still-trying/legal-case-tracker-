@@ -25,6 +25,8 @@ The Legal Case Tracker is a full-stack Django application with a custom-designed
 
 ---
 
+🧬 Architecture
+
                    ┌──────────────────────────┐
                    │        FRONTEND          │
                    │  HTML • CSS • JS (custom)│
@@ -52,6 +54,37 @@ The Legal Case Tracker is a full-stack Django application with a custom-designed
 <p align="left"> <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-4.x-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Pillow-Image%20Processing-3670A0?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/DotEnv-Env%20Config-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" /> <img src="https://img.shields.io/badge/Custom%20UI-Frontend%20Design-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MVT%20Pattern-Django-0A7E07?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
 ---
+
+✨ Core Features
+🔐 Authentication
+
+Secure login/logout + page access restrictions.
+
+📁 Case Management
+
+Create, update, view, delete cases with status & metadata.
+
+👥 Party Handling
+
+Add plaintiffs, defendants, or custom roles per case.
+
+⏳ Deadline Engine
+
+Add deadlines with overdue detection & completion status.
+
+📄 Document Upload System
+
+Secure uploads with validation (file size + extension), stored under per-case folders.
+
+🖥 Custom Frontend UI
+
+Responsive layout
+
+Smooth animations
+
+Futuristic card design
+
+Styled forms (Django Form Mixins)
 
 <h3 align="center">🌐 Connect-With-Me</h3>
 
