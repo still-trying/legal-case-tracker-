@@ -91,7 +91,7 @@ The Legal Case Tracker is a full-stack Django application with a custom-designed
 <h3 align="center">🌐 Connect-With-Me</h3>
 
 <p align="center">
-  <a href="monishukla727538@gmail.com">
+  <a href="workforaniruddh31@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20HQ-Email%20Now-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/ankit-shukla-877705285/">
