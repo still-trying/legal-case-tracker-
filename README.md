@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🌐 Command Center Channels</h3>
+<h3 align="center">🌐 Connect-With-Me</h3>
 
 <p align="center">
   <a href="monishukla727538@gmail.com">
