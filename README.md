@@ -86,8 +86,33 @@ The Legal Case Tracker is a full-stack Django application with a custom-designed
 
 3.Futuristic card design
 
-4,Styled forms (Django Form Mixins)
+4.Styled forms (Django Form Mixins)
 
+-----
+
+⚙️ Installation
+1️⃣ Clone Repo:
+git clone https://github.com/yourusername/legal-case-tracker.git
+cd legal-case-tracker
+
+2️⃣ Virtual Environment:
+python -m venv venv
+venv\Scripts\activate
+
+3️⃣ Install Dependencies:
+pip install -r requirements.txt
+
+4️⃣ Apply Migrations:
+python manage.py makemigrations
+python manage.py migrate
+
+5️⃣ Create Superuser:
+python manage.py createsuperuser
+
+6️⃣ Run Server:
+python manage.py runserver
+
+--------
 <h3 align="center">🌐 Connect-With-Me</h3>
 
 <p align="center">
