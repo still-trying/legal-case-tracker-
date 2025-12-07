@@ -1,4 +1,4 @@
-<h1 align="center">🚀 DATA-FILTER-AND-STORAGE-MODEL</h1>
+<h1 align="center">🚀 Legal-Case-Tracker</h1>
 
 
 <p align="center">
